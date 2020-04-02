@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-svg4everybody-module",
+  "version": "1.0.0",
+  "description": "svg4everybody module for Nuxt.js",
+  "main": "src/main.js",
+  "scripts": {
+    "release": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunchaserkuafu/nuxt-svg4everybody-module.git"
+  },
+  "author": "sunchaserkuafu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunchaserkuafu/nuxt-svg4everybody-module/issues"
+  },
+  "homepage": "https://github.com/sunchaserkuafu/nuxt-svg4everybody-module#readme",
+  "dependencies": {
+    "svg4everybody": "^2.1.9"
+  }
+}
